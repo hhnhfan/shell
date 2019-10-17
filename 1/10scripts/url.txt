@@ -1,0 +1,8 @@
+# [China] location website.
+www.baidu.com
+www.zhihu.com
+www.qingcloud.com
+
+# [USA] location website.
+www.google.com
+www.facebook.com
